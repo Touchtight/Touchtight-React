@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/touchtight-react/static/css/main.b788277e.chunk.css",
+    "main.js": "/touchtight-react/static/js/main.34bffeed.chunk.js",
+    "main.js.map": "/touchtight-react/static/js/main.34bffeed.chunk.js.map",
+    "runtime~main.js": "/touchtight-react/static/js/runtime~main.82899fd8.js",
+    "runtime~main.js.map": "/touchtight-react/static/js/runtime~main.82899fd8.js.map",
+    "static/js/2.2ca497d4.chunk.js": "/touchtight-react/static/js/2.2ca497d4.chunk.js",
+    "static/js/2.2ca497d4.chunk.js.map": "/touchtight-react/static/js/2.2ca497d4.chunk.js.map",
+    "index.html": "/touchtight-react/index.html",
+    "precache-manifest.f9bf64f6762498a6368183365fc41031.js": "/touchtight-react/precache-manifest.f9bf64f6762498a6368183365fc41031.js",
+    "service-worker.js": "/touchtight-react/service-worker.js",
+    "static/css/main.b788277e.chunk.css.map": "/touchtight-react/static/css/main.b788277e.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/touchtight-react/static/media/crown.ed28accb.svg"
+  }
+}
