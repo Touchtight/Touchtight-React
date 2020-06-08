@@ -1,32 +1,32 @@
 const SHOP_DATA = [
     {
       id: 1,
-      title: 'Hats',
-      routeName: 'hats',
+      title: 'Practices',
+      routeName: 'practices',
       items: [
         {
           id: 1,
           name: 'Brown Brim',
-          imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-          price: 25
+          imageUrl: 'https://image.mux.com/D8PU0036BeX3veIIzAKJlqiECDBoEIJak/animated.gif?width=490&height=278&fps=15',
+          price: 'Age Group: 11+'
         },
         {
           id: 2,
-          name: 'Blue Beanie',
-          imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
-          price: 18
+          name: 'Attacking Centrally | Tech (01-P4)',
+          imageUrl: 'https://giff.uscreen.cloud/7583/preview_475797.gif',
+          price: 'Age Group: 14+'
         },
         {
           id: 3,
-          name: 'Brown Cowboy',
-          imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
-          price: 35
+          name: 'How to Play the 442 Diamond',
+          imageUrl: 'https://giff.uscreen.cloud/7583/preview_478194.gif',
+          price: 'Age Group: 14+'
         },
         {
           id: 4,
-          name: 'Grey Brim',
-          imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
-          price: 25
+          name: 'Defending Outnumbered | Function 13-P9',
+          imageUrl: 'https://giff.uscreen.cloud/7583/preview_471495.gif',
+          price: 'Age Group: 16+'
         },
         {
           id: 5,
@@ -62,8 +62,8 @@ const SHOP_DATA = [
     },
     {
       id: 2,
-      title: 'Sneakers',
-      routeName: 'sneakers',
+      title: 'Sessions',
+      routeName: 'sessions',
       items: [
         {
           id: 10,
@@ -117,8 +117,8 @@ const SHOP_DATA = [
     },
     {
       id: 3,
-      title: 'Jackets',
-      routeName: 'jackets',
+      title: 'Tactical Analysis',
+      routeName: 'tactical-analysis',
       items: [
         {
           id: 18,
@@ -154,8 +154,8 @@ const SHOP_DATA = [
     },
     {
       id: 4,
-      title: 'Womens',
-      routeName: 'womens',
+      title: 'Formation Study',
+      routeName: 'formation-study',
       items: [
         {
           id: 23,
@@ -203,8 +203,8 @@ const SHOP_DATA = [
     },
     {
       id: 5,
-      title: 'Mens',
-      routeName: 'mens',
+      title: 'The Elite 5',
+      routeName: 'the-elite-5',
       items: [
         {
           id: 30,

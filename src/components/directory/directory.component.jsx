@@ -10,36 +10,36 @@ class Directory extends React.Component {
 
         this.state = {
             sections: [{
-                  title: 'Hats',
-                  imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                  title: 'Practices',
+                  imageUrl: '  https://dtsvkkjw40x57.cloudfront.net/images/categories/20007/big_prEZmoNQuefnC60gZPwA_Screenshot_202019-09-19_20at_2012.44.51.png',
                   id: 1,
-                  linkUrl: 'hats'
+                  linkUrl: 'practices'
                 },
                 {
-                  title: 'Jackets',
-                  imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+                  title: 'Sessions',
+                  imageUrl: 'https://dtsvkkjw40x57.cloudfront.net/images/categories/20030/big_7583_2Fcategory_image_2F20030_2Ftp3DXi6R06eOZf4XZPnQ_Sessions_20Image_20Silva.png',
                   id: 2,
-                  linkUrl: ''
+                  linkUrl: 'sessions'
                 },
                 {
-                  title: 'Sneakers',
-                  imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+                  title: 'Tactical Analysis',
+                  imageUrl: 'https://dtsvkkjw40x57.cloudfront.net/699xnull/7583/uploads/12724c63-378b-4e11-8d4e-9d647ed661f2.png',
                   id: 3,
-                  linkUrl: ''
+                  linkUrl: 'tactical-analysis'
                 },
                 {
-                  title: 'Womens',
-                  imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+                  title: 'Formation Study',
+                  imageUrl: 'https://dtsvkkjw40x57.cloudfront.net/images/categories/20032/big_7583_2Fcategory_image_2F20032_2FNyqodArLROy36ppIPoxe_Tactical_20Solutions.png',
                   size: 'large',
                   id: 4,
-                  linkUrl: ''
+                  linkUrl: 'formation-study'
                 },
                 {
-                  title: 'Mens',
-                  imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+                  title: 'The Elite 5',
+                  imageUrl: 'https://dtsvkkjw40x57.cloudfront.net/1080xnull/7583/uploads/6d90bf29-3c15-4b28-8393-fd13147ac228.png',
                   size: 'large',
                   id: 5,
-                  linkUrl: ''
+                  linkUrl: 'the-elite-5'
                 }]
             }
         }
