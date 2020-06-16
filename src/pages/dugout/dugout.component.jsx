@@ -1,6 +1,6 @@
 import React from 'react';
 import Directory from '../../components/directory/directory.component';
-import './homepage.styles.scss';
+import './dugout.styles.scss';
 import CollapsePage from '../../components/collapsepage.component';
 import MediaObjectPage from '../../components/mediaobjectpage.component';
 import CardExample from '../../components/card-example.component';
@@ -12,19 +12,17 @@ import CardItem from '../../components/card-item/carditem.component'
 import FooterPage from '../../components/footer.component';
 import ContactPage from '../../components/contactus.component';
 import FeaturesPage from '../../components/features-page.component';
+import ClubTabsDropdown from '../../components/clubtab.component';
 
-const HomePage = () => (
+const Dugout = () => (
     <>  
-        <TabsDropdown />
-        <VideoCarousel />
-    <div className='homepage'>
         
+    <div className='dugout'>
+        <ClubTabsDropdown />
         <CardExample />
-        <CollapsePage />
+        <CardExample />
         <MultiCarouselPage />
         <FeaturesPage />    
-        <MediaObjectPage />
-        <TestimonialsPage />
         {/* <Directory />  */}
         {/* <CardItem /> */}
     </div>
@@ -33,4 +31,4 @@ const HomePage = () => (
     </>
 );
 
-export default HomePage;
+export default Dugout;

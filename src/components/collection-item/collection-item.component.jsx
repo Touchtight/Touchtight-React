@@ -1,8 +1,12 @@
 import React from 'react';
+import { connect } from 'react-redux';
 
 import './collection-item.styles.scss';
 
-const CollectionItem = ({ id, name, price, imageUrl }) => (
+const CollectionItem = ({ item, addItem }) => {
+  const { name, price, imageUrl } = item;
+
+return(
   <div className='collection-item'>
     <div
       className='image'
@@ -15,6 +19,7 @@ const CollectionItem = ({ id, name, price, imageUrl }) => (
       <span className='price'>{price}</span>
     </div>
   </div>
-);
+  );
+};
 
 export default CollectionItem;
